@@ -10,6 +10,7 @@
   "dependencies": {
     "@prismicio/client": "^5.0.0",
     "@stripe/stripe-js": "^1.15.0",
+    "@types/react": "^17.0.6",
     "@types/prismic-dom": "^2.1.1",
     "axios": "^0.21.1",
     "faunadb": "^4.3.0",
@@ -24,7 +25,6 @@
   },
   "devDependencies": {
     "@types/node": "^15.6.1",
-    "@types/react": "^17.0.6",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "eslint": "^7.27.0",
