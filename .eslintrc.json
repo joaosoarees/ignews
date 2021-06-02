@@ -27,6 +27,7 @@
     "no-alert": "off",
     "camelcase":"off",
     "jsx-a11y/anchor-is-valid": "off",
+    "react/no-danger": "off",
     "no-case-declarations":"off",
     "react/jsx-props-no-spreading": "off",
     "no-restricted-syntax":"off",
